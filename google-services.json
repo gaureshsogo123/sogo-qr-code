@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "951330050357",
+    "project_id": "notificationtest-a034c",
+    "storage_bucket": "notificationtest-a034c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951330050357:android:d75c8fabcbf15f0f883c7c",
+        "android_client_info": {
+          "package_name": "com.gauresh123.fcmnotificationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951330050357-9vvvqfbi2n601utfkft6nkbv3o4qkjmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "key=AIzaSyDSZ5J6ag32W-A5PYvhluIvArCHzAsSKxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951330050357-9vvvqfbi2n601utfkft6nkbv3o4qkjmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
